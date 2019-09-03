@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.general
+{
+width: 900px;
+height: 500px;
+}
+.titulo
+{
+	top: 0px;
+	width: 900px;
+	height: 200px;
+	background: #81BEF7;
+
+
+}
+.menu
+{
+	width: 100px;
+	height: 170px;
+	background: #FFFFFF;
+	float: left;
+	list-style: none;
+	margin: 0px;
+	padding:0px;
+
+
+
+}
+
+.menu li a
+{
+padding-bottom: 22px;
+	display:block;
+	text-decoration: none;
+	color: #000000;
+	align-content: center;
+	border-top:1px solid #7C7C7C;
+	border-right:1px solid #7C7C7C;
+	border-bottom:1px solid #9C9C9C;
+	
+}
+
+.info
+{
+	width: 780px;
+	height:210px;
+	background:#D8D8D8;
+	float: left;
+	text-align: left;
+}
+.fondo_menu
+{
+	width:120px; 
+	height:210PX;
+	background:#2E2E2E;
+	float: left;
+}
+img{
+	width: 60px;
+	height:70px;
+	float: left;
+	display: block;
+	padding: 15px;
+}
+
+.alumno
+{
+	width: 780px;
+	height:210px;
+	background:#D8D8D8;
+	float: left;
+	text-align: left;
+}
+ol.list_alumno
+{
+	padding-left: 20px;
+}
+.docente
+{
+	width: 780px;
+	height:210px;
+	background:#D8D8D8;
+	float: left;
+	text-align: left;
+}
+.horario
+{
+	width: 780px;
+	height:210px;
+	background:#D8D8D8;
+	float: left;
+	text-align: left;
+}
